@@ -1,10 +1,4 @@
-九乡河文理学院退役 XCPC 选手
-
-在分布式计算的坑里匍匐挣扎
-
-> 涸辙之鲋，旦暮成枯。
-> 
-> 人而无志，与彼何殊？
+九乡河文理学院退役 XCPC 选手，研究方向为数据库。
 
 Reach me here: <https://eaglebear2002.github.io/about>
 
